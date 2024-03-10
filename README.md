@@ -21,5 +21,5 @@ npx cypress run
 ## To open cypress Test Runner
 npx cypress open
 
-## Lastly
+## Note
 You can reach out privately if you need any further assistance
